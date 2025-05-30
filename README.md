@@ -5,8 +5,6 @@ The Data Analyst Agent is an intelligent assistant designed to help users analyz
 
 This project focuses on robust backend processing, intelligent interaction, and demonstrating the capabilities of LLMs in data analysis tasks. The user interface is built using `ipywidgets` within a Jupyter Notebook environment.
 
-## DEMO Images
-
 
 ## Features
 
