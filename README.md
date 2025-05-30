@@ -1,14 +1,12 @@
 # Data Analyst Agent 🤖📊
 
 ## Overview
-![Screenshot 2025-05-31 023156](https://github.com/user-attachments/assets/68a08384-5576-4c27-8269-f6cec9ef36cd)
-
-
 The Data Analyst Agent is an intelligent assistant designed to help users analyze data from various document types. Users can upload files (including text documents, spreadsheets, PDFs, and images), ask questions about their content, request data analysis, and generate visualizations for tabular data. The agent leverages the power of Large Language Models (LLMs) from Together AI, specifically targeting the `meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8` model, with fallbacks to other Llama models for improved reliability.
 
 This project focuses on robust backend processing, intelligent interaction, and demonstrating the capabilities of LLMs in data analysis tasks. The user interface is built using `ipywidgets` within a Jupyter Notebook environment.
 
 ## DEMO Images
+
 
 ## Features
 
